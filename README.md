@@ -7,3 +7,7 @@ This projects aims to construct an IMP file presenting the Book of Common Prayer
 
 ##Source for the readings
 * [The Kalendar, with the Table of Lessons (1662)](http://www.eskimo.com/~lhowell/bcp1662/info/cal_1662/)
+
+##Source for the descriptions
+* [Roman Martyrology](http://www.brandt.id.au/roman-martyrology/) (Primary source)
+* Ramsgate Book of Saints and the Catholic Encyclopedia (Secondary sources, to be replaced by more antient material)
